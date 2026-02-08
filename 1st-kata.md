@@ -1,4 +1,4 @@
-# XXth Kata -- kataNameHere
+# 1st Kata -- Is it a palindrome?
 
 by _[leidyl000](https://www.codewars.com/users/leidyl000)_
 
