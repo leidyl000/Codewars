@@ -65,7 +65,7 @@ You have passed all of the tests! :)
 
 ## Interesting Kata solution:
 
-> by _[dfhwze](https://www.codewars.com/users/dfhwze)_
+> by _[rimskayama](https://www.codewars.com/users/rimskayama)_
 
 ```js
 //SELECT month, CAST(CEILING(month / 3.0) AS INT) AS res 
