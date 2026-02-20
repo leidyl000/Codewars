@@ -47,7 +47,7 @@ end
 
 ## Notes
 
-Learned funtion FLOOR.
+Learned function FLOOR.
 
 ## My solution with comments:
 
